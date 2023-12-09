@@ -1,4 +1,6 @@
-# Website
+# Mariel and Michi's Recipes
+
+This is the repo to build and host Mariel and Michi's recipes at [rezepte.marielundmichi.de](https://rezepte.marielundmichi.de).
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
