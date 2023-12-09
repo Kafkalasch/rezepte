@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrezepte=self.webpackChunkrezepte||[]).push([[652],{146:e=>{e.exports=JSON.parse('{"title":"Dips","description":"Verschiedene Dips.","slug":"/category/dips","permalink":"/category/dips","navigation":{"previous":{"title":"Mariel und Michis Rezepte","permalink":"/"},"next":{"title":"K\xf6se dip","permalink":"/dips/k\xe4se-dip"}}}')}}]);
