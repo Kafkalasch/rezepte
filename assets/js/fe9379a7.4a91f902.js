@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrezepte=self.webpackChunkrezepte||[]).push([[9756],{5290:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/rezepte/blog/tags/hello","allTagsPath":"/rezepte/blog/tags","count":2,"unlisted":false}')}}]);
