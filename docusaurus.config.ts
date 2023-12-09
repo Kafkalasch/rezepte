@@ -3,8 +3,8 @@ import type { Config } from "@docusaurus/types";
 import { themes as prismThemes } from "prism-react-renderer";
 
 const config: Config = {
-    title: "My Site",
-    tagline: "Dinosaurs are cool",
+    title: "M&Ms Rezepte",
+    tagline: "Michi und Mariels Rezepte",
     favicon: "img/favicon.ico",
 
     // Set the production url of your site here
@@ -54,7 +54,7 @@ const config: Config = {
         // Replace with your project's social card
         image: "img/docusaurus-social-card.jpg",
         navbar: {
-            title: "My Site",
+            title: "M&M",
             logo: {
                 alt: "My Site Logo",
                 src: "img/logo.svg",
@@ -65,6 +65,11 @@ const config: Config = {
                     sidebarId: "tutorialSidebar",
                     position: "left",
                     label: "Rezepte",
+                },
+                {
+                    to: "https://onedrive.live.com/?id=127345801ad90529!0%5EL0xpdmVGb2xkZXJzL01hcmllbCB1bmQgTWljaGkvRG9rdW1lbnRlL0tvY2hyZXplcHRl",
+                    label: "OneDrive",
+                    position: "left",
                 },
             ],
         },
