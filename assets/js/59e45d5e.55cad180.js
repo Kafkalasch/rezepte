@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrezepte=self.webpackChunkrezepte||[]).push([[7237],{6001:e=>{e.exports=JSON.parse('{"permalink":"/rezepte/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
