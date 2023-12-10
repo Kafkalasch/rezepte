@@ -4,7 +4,7 @@
 
 | Menge | Zutat                       |
 | ----- | --------------------------- |
-| 1     | [Mürbteig](./mürbteig.md)   |
+| 1     | [Mürbteig](./muerbteig.md)  |
 | 50 g  | Rohrzucker                  |
 | 900 g | Äpfel, Birnen, oder Quitten |
 | 200 g | Schlagsahne                 |
