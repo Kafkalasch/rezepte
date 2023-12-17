@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrezepte=self.webpackChunkrezepte||[]).push([[626],{9645:e=>{e.exports=JSON.parse('{"title":"Brotaufstriche","slug":"/category/brotaufstriche","permalink":"/category/brotaufstriche","navigation":{"previous":{"title":"Mariel und Michis Rezepte","permalink":"/"},"next":{"title":"Erdnussbutter","permalink":"/aufstriche/erdnuss-butter"}}}')}}]);
