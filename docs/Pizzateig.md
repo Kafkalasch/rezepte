@@ -14,8 +14,8 @@
 ## Zubereitung
 
 1. Küchenmaschine mit Knethaken Aufsatz
-2. Mehl und Trockenhefe kurz mischen
-3. Salz, kaltes Wasser, Öl und Honig hinzugeben und rund 30 Sekunden mixen. Der Teig formt sich zu einer Kugel oder bleibt an einem Stück. Der Teig darf sich nicht zu sehr erhitzen, da dies sonst die Hefe abtötet!
+2. Mehl, Trockenhefe und Salz kurz mischen
+3. Kaltes Wasser, Öl und Honig hinzugeben und rund 30 Sekunden mixen. Der Teig formt sich zu einer Kugel oder bleibt an einem Stück. Der Teig darf sich nicht zu sehr erhitzen, da dies sonst die Hefe abtötet!
 4. Teig in einer geschlossenen (!) Schüssel in den Kühlschrank geben und mindestens 24 Stunden ruhen lassen (soll zumindest doppelte Größe erreichen).
 5. Der Teig kann ruhig einige Tage im Kühlschrank verweilen. Je länger, desto besser.
 6. Am Besten 2 Stunden vor dem Verarbeiten aus dem Kühlschrank nehmen.
