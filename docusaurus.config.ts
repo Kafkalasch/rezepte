@@ -57,7 +57,7 @@ const config: Config = {
             title: "M&M",
             logo: {
                 alt: "My Site Logo",
-                src: "img/logo.svg",
+                src: "img/kochmuetze.jpg",
             },
             items: [
                 {
