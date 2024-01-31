@@ -4,7 +4,7 @@
 | --------------- | ------------------------------------- |
 | 400 g           | ganze Haselnüsse, geschält            |
 | 100 g           | dunkle Schokolade (Lind 70%)          |
-| optional, 1-2EL | unraffiniertes Kokosöl (das ist fest) |
+| optional, 1 EL  | unraffiniertes Kokosöl (das ist fest) |
 | optional, 1 Pkg | Vanillezucker                         |
 
 ## Zubereitung
@@ -15,7 +15,8 @@
 4. Im Food Processor mit dem Messer Aufsatz zerkleinern bis sie cremig werden (kann ein wenig dauern). Zwischendurch immer wieder mal die Masse von den Seiten kratzen und auf Temperatur prüfen. Nicht zu heiß werden lassen, da die Nüsse sonst bitter werden können. Sonst einfach kurz pausieren.
 5. Die Schokolade schmelzen und nicht zu heiß, aber nicht zu fest in den Food Processor geben.
 6. Optional Vanillezucker dazu geben.
-7. Wenn man die Konsistenz etwas cremiger möchte, kann man noch etwas Kokosöl dazugeben. Im Kühlschrank (und auch draußen) wird die Creme fester als sie im Food Processor ist.
+7. Wenn man die Konsistenz etwas samtiger möchte, kann man noch etwas Kokosöl dazugeben.
+8. Die Creme wird fester, sobald sie abgekühlt ist.
 
 ## Inspiration
 
