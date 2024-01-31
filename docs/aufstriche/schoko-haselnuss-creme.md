@@ -5,7 +5,7 @@
 | 400 g           | ganze Haselnüsse, geschält            |
 | 100 g           | dunkle Schokolade (Lind 70%)          |
 | optional, 1 EL  | unraffiniertes Kokosöl (das ist fest) |
-| optional, 1 Pkg | Vanillezucker                         |
+| optional, 1 Pkg | Bourbon Vanillezucker                 |
 
 ## Zubereitung
 
