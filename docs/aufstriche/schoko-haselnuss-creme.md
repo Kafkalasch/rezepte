@@ -9,7 +9,7 @@
 
 ## Zubereitung
 
-1. Nüsse bei ca. 20-25 min bei 150°C im Ofen rösten. Sobald es gut riecht und sie dunkel werden raus nehmen (verbrennen sonst schnell). Mehr zum Nüsse rösten im [eigenen Artikel](../grundlegendes/nuesse-roesten.md).
+1. Nüsse bei ca. 20-25 min bei 150°C (Umluft) im Ofen rösten. Sobald es gut riecht und sie dunkel werden raus nehmen (verbrennen sonst schnell). Mehr zum Nüsse rösten im [eigenen Artikel](../grundlegendes/nuesse-roesten.md).
 2. Gut abkühlen lassen und die Haut abrubbeln (Küchentuch), falls nötig. Hab ich bisher 2 mal gemacht, aber es ist kaum noch was abgegangen. Habe immer diese fertig geschälten Haselnüsse vom Edeka genommen.
 3. Optional kann man sie davor in den Kühlschrank geben, um sie kalt zu bekommen.
 4. Im Food Processor mit dem Messer Aufsatz zerkleinern bis sie cremig werden (kann ein wenig dauern). Zwischendurch immer wieder mal die Masse von den Seiten kratzen und auf Temperatur prüfen. Nicht zu heiß werden lassen, da die Nüsse sonst bitter werden können. Sonst einfach kurz pausieren.
