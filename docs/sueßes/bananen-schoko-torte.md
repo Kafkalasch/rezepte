@@ -4,13 +4,13 @@
 
 | Menge  | Zutat                                  | Wofür? |
 | ------ | -------------------------------------- | ------ |
-| 6      | Eier                                   | Boden  |
+| 6-7     | Eier                                   | Boden  |
 | 200 g  | Zucker                                 | Boden  |
 | 150 g  | Mehl                                   | Boden  |
 | 20 g   | Kakao                                  | Boden  |
 | 625 ml | Schlagobers                            | Creme  |
 | 300 g  | Zartbitter-Schokolade (z.b. Lindt 65%) | Creme  |
-|  7     |  Bananen                               |        |
+|  7-8     |  Bananen                               |        |
 | etwas  | starken Kaffee                         |        |
 
 ## Zubereitung
@@ -18,7 +18,7 @@
 ### Creme
 
 1. Schkolade in kleine Stücke brechen und mit Schlagobers auf kleiner Flamme schmelzen.
-2. Einmal kurz Aufkoche lassen und dann vom Herd nehmen und abkühlen lassen.
+2. Einmal kurz aufkochen lassen und dann vom Herd nehmen und abkühlen lassen.
 3. Über Nacht in den Kühlschrank stellen.
 
 ### Boden
