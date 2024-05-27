@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrezepte=self.webpackChunkrezepte||[]).push([[885],{38:e=>{e.exports=JSON.parse('{"title":"Einkochen","slug":"/category/einkochen","permalink":"/category/einkochen","navigation":{"previous":{"title":"Dutch Baby","permalink":"/dutch-baby"},"next":{"title":"Cheese Cake","permalink":"/einkochen/cheese-cake"}}}')}}]);
