@@ -28,7 +28,7 @@
 3. Eidotter mit Zucker schaumig schlagen.
 4. Mehl und Kakao zu der Masse hinzufügen und verrühren.
 5. Eiklar zu Schnee schlagen und unterheben.
-6. Alles in eine Tortenform füllen und bei 180° C ca. 20-30 min backen.
+6. Alles in eine Tortenform füllen und bei 180° C ca. 30 min backen.
 7. Die Torte ist fertig, wenn man in der Mitte mit einer Gabel einsticht und diese trocken wieder herauskommt.
 8. Auskühlen lassen.
 
