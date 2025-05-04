@@ -2,6 +2,16 @@ import type * as Preset from "@docusaurus/preset-classic";
 import type { Config } from "@docusaurus/types";
 import { themes as prismThemes } from "prism-react-renderer";
 
+/** @type {import('@docusaurus/types').PluginConfig} */
+const searchLocalPlugin = [
+    require.resolve("@easyops-cn/docusaurus-search-local"),
+    /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+    // @ts-ignore
+    {
+        hashed: true,
+    },
+];
+
 const config: Config = {
     title: "M&Ms Rezepte",
     tagline: "Michi und Mariels Rezepte",
@@ -83,6 +93,8 @@ const config: Config = {
             darkTheme: prismThemes.dracula,
         },
     } satisfies Preset.ThemeConfig,
+
+    themes: [searchLocalPlugin],
 };
 
 export default config;
