@@ -7,7 +7,7 @@
 | 320 g    | Mehl "Tipo 00", sonst 405, Proteingehalt > 12% |
 | 1/2 Pkg. | Trockenhefe  oder 1/4 Pkg. Frischer Germ                                  |
 | 1/2 TL   | Honig                                          |
-| 5 g      | Salz                                           |
+| 5 g / 1 gestr. TL     | Salz                                           |
 | 208 ml   | eiskaltes Wasser                               |
 | 1/2 EL   | Öl                                             |
 
