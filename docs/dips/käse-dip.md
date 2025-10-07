@@ -1,4 +1,4 @@
-# Köse dip
+# Käse dip
 
 ## Zutaten
 
