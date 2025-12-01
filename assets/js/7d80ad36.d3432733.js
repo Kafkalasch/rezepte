@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrezepte=self.webpackChunkrezepte||[]).push([[43],{8346:e=>{e.exports=JSON.parse('{"title":"Teige","description":"Verschiedene Teige","slug":"/category/teige","permalink":"/category/teige","navigation":{"previous":{"title":"N\xfcsse r\xf6sten","permalink":"/grundlegendes/nuesse-roesten"},"next":{"title":"Pitas","permalink":"/teige/pitas"}}}')}}]);
