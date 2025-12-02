@@ -9,12 +9,13 @@
 | 10g        | frische Hefe           |
 | 15g / 3 TL | Salz                   |
 | 10g / 2 TL | Zucker                 |
+| 2 TL       | Kümmel (optional)      |
 
 ## Zubereitung
 
 1. Hefe in lauwarmes Wasser bröseln und unter Rühren auflösen
 2. Zucker im Wasser auflösen
-3. Salz mit Mehl vermengen und dazu rühren (es muss nicht geknetet werden)
+3. Salz mit Mehl vermengen und dazu rühren (es muss nicht geknetet werden). Optional auch den Kümmel einrühren.
 4. bedeckt 8-12 (oder bis zu 24 Stunden) in den Kühlschrank geben
 5. Gusseisernen Topf mit Deckel im Backofen vorheizen (250
    °C, Ober-/Unterhitze)
