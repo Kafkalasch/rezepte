@@ -20,10 +20,12 @@
 4. bedeckt 8-12 (oder bis zu 24 Stunden) in den Kühlschrank geben
 5. Gusseisernen Topf mit Deckel im Backofen vorheizen (250
    °C, Ober-/Unterhitze)
-6. Teig auf bemehltes Backpapier kippen und 1-2 mal falten
-7. Teig zusammen mit Backpapier in den Topf geben
-8. 30 Minuten bei 250 °C backen (geschlossener Deckel)
-9. 20 Minuten bei 200 °C backen (offener Deckel)
+6a. Teig auf bemehltes Backpapier kippen und 1-2 mal falten
+   -  Teig zusammen mit Backpapier in den Topf geben
+6b. Alternativ: Teig zu Brotlaib auf gut bemehlter Arbeitsfläche formen und während der Vorheizzeit (ca. 45 min) mit Schluss nach unten in Brotkorb garen.
+   - In den Topf kippen, so dass der Schluss nach oben zeigt.
+9. 30 Minuten bei 250 °C backen (geschlossener Deckel)
+10. 20 Minuten bei 200 °C backen (offener Deckel)
 
 ## Source
 
