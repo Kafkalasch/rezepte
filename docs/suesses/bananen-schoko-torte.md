@@ -2,16 +2,16 @@
 
 ## Zutaten
 
-| Menge  | Zutat                                  | Wofür? |
-| ------ | -------------------------------------- | ------ |
-| 6-7     | Eier                                   | Boden  |
-| 200 g  | Zucker                                 | Boden  |
-| 150 g  | Mehl                                   | Boden  |
-| 20 g   | Kakao                                  | Boden  |
-| 625 ml | Schlagobers                            | Creme  |
-| 300 g  | Zartbitter-Schokolade (z.b. Lindt 65%) | Creme  |
-|  7-8     |  Bananen                               |        |
-| etwas  | starken Kaffee                         |        |
+| Menge (26cm) | Menge (18cm) | Zutat                                  | Wofür? |
+| ------------ | ------------ | -------------------------------------- | ------ |
+| 6-7          | 3-4          | Eier                                   | Boden  |
+| 200 g        | 100 g        | Zucker                                 | Boden  |
+| 150 g        | 75 g         | Mehl                                   | Boden  |
+| 20 g         | 10 g         | Kakao                                  | Boden  |
+| 625 ml       | 315 ml       | Schlagobers                            | Creme  |
+| 300 g        | 150 g        | Zartbitter-Schokolade (z.b. Lindt 65%) | Creme  |
+| 7-8          | 3-4          | Bananen                                |        |
+| etwas        | etwas        | starken Kaffee                         |        |
 
 ## Zubereitung
 
