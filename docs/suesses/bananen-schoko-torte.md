@@ -2,16 +2,24 @@
 
 ## Zutaten
 
-| Menge (26cm) | Menge (18cm) | Zutat                                  | Wofür? |
-| ------------ | ------------ | -------------------------------------- | ------ |
-| 6-7          | 3-4          | Eier                                   | Boden  |
-| 200 g        | 100 g        | Zucker                                 | Boden  |
-| 150 g        | 75 g         | Mehl                                   | Boden  |
-| 20 g         | 10 g         | Kakao                                  | Boden  |
-| 625 ml       | 315 ml       | Schlagobers                            | Creme  |
-| 300 g        | 150 g        | Zartbitter-Schokolade (z.b. Lindt 65%) | Creme  |
-| 7-8          | 3-4          | Bananen                                |        |
-| etwas        | etwas        | starken Kaffee                         |        |
+| Menge  | Menge (18cm) | Menge (18 cm - 3 Stöckig) | Zutat                                  | Wofür? |
+| ------ | ------------ | ------------------------- | -------------------------------------- | ------ |
+| 6-7    | 3-4          | 4-5                       | Eier                                   | Boden  |
+| 200 g  | 100 g        | 135 g                     | Zucker                                 | Boden  |
+| 150 g  | 75 g         | 100 g                     | Mehl                                   | Boden  |
+| 20 g   | 10 g         | 15 g                      | Kakao                                  | Boden  |
+| 625 ml | 315 ml       | 420 ml                    | Schlagobers                            | Creme  |
+| 300 g  | 150 g        | 200 g                     | Zartbitter-Schokolade (z.b. Lindt 65%) | Creme  |
+| 7-8    | 3-4          | 5                         | Bananen                                |        |
+| etwas  | etwas        | etwas                     | starken Kaffee                         |        |
+
+:::warning
+
+Die Menge (18 cm - 3 Stöckig) war etwas zu viel und kann reduziert werden.
+
+Die Menge in den ersten beiden Spalten habe ich noch nicht mit den neuen Formen getestet.
+
+:::
 
 ## Zubereitung
 
@@ -28,7 +36,7 @@
 3. Eidotter mit Zucker schaumig schlagen.
 4. Mehl und Kakao zu der Masse hinzufügen und verrühren.
 5. Eiklar zu Schnee schlagen und unterheben.
-6. Alles in eine Tortenform füllen und bei 180° C ca. 30 min backen.
+6. Alles in eine Tortenform füllen und bei 180°C ca. 45 min backen. Bei 18 cm ab ca. 40 min prüfen.
 7. Die Torte ist fertig, wenn man in der Mitte mit einer Gabel einsticht und diese trocken wieder herauskommt.
 8. Auskühlen lassen.
 
