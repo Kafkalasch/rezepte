@@ -14,7 +14,7 @@
 ## Zubereitung
 
 1. ca. 100-150 ml der Milch mit der Stärke und dem Zucker verrühren
-    1. Falls man Orangeat, Bailey's oder Cointreau nimmt, reicht 50g Zucker, sonst eher 60g
+   1. Falls man Orangeat, Bailey's oder Cointreau nimmt, reicht 50g Zucker, sonst eher 60g
 2. Restliche Milch in einem Topf erhitzen
 3. Wenn die Milch kocht, die Stärke-Milch-Mischung und Kakao hinzugeben und unter ständigem Rühren aufkochen lassen
 4. 2-3 min köcheln lassen

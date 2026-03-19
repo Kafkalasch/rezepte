@@ -27,10 +27,10 @@ Folgende Menge ist sehr viel. Zum Mischen brauchten wir 2 sehr große Töpfe. Er
 6. Zwiebeln und Bärlauch unter die Masse heben und mindestens 30 min ziehen lassen.
 7. Wasser in einem großen Topf zum Kochen bringen.
 8. Mit nassen Händen Knödel fest formen und in das heiße Wasser geben. --> Testknödel, welcher 15 min nicht zerfallen sollte.
-    1. Die Knödel sollen nicht in wallendem, sondern nur in sehr heißem Wasser garen.
-    2. Die Knödel sollten möglichst rund sein, damit sie nicht zerfallen.
-    3. Die Knödelmasse darf nicht zu feucht sein. Wenn man die Knödel presste, sollte kein Wasser zwischen Fingern zu spüren sein.
-        1. Ist sie zu feucht, kann man Semmelbrösel (kein Mehl) dazumischen und nochmal ziehen lassen.
-    4. Ist sie zu trocken, kann man Milch dazugeben (und wieder ziehen lassen). Das ist mir aber noch nie passiert.
+   1. Die Knödel sollen nicht in wallendem, sondern nur in sehr heißem Wasser garen.
+   2. Die Knödel sollten möglichst rund sein, damit sie nicht zerfallen.
+   3. Die Knödelmasse darf nicht zu feucht sein. Wenn man die Knödel presste, sollte kein Wasser zwischen Fingern zu spüren sein.
+      1. Ist sie zu feucht, kann man Semmelbrösel (kein Mehl) dazumischen und nochmal ziehen lassen.
+   4. Ist sie zu trocken, kann man Milch dazugeben (und wieder ziehen lassen). Das ist mir aber noch nie passiert.
 9. Erst wenn der Testknödel gut ist, die restlichen Knödel formen und garen. Achtung: Die Knödel gehen im Wasser auf, also genug Platz lassen
 10. Die Knödel waren bei uns so nach 10-15 min fertig.

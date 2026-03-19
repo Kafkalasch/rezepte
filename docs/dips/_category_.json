@@ -1,8 +1,8 @@
 {
-    "label": "Dips",
-    "position": 3,
-    "link": {
-        "type": "generated-index",
-        "description": "Verschiedene Dips."
-    }
+  "label": "Dips",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Verschiedene Dips."
+  }
 }

@@ -1,8 +1,8 @@
 {
-    "label": "Teige",
-    "position": 6,
-    "link": {
-        "type": "generated-index",
-        "description": "Verschiedene Teige"
-    }
+  "label": "Teige",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+    "description": "Verschiedene Teige"
+  }
 }

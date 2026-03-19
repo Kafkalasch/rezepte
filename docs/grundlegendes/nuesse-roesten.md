@@ -17,9 +17,9 @@ Lässt man sich und den Nüssen etwas Zeit und röstet bei niedriger Temperatur,
 
 Folgende Richtwerte gelten:
 
--   Mandeln (ganz, geschält): 20 Minuten
--   Mandelstäbchen (geschält): 15 Minuten
--   Mandeln (gehobelt): 13 Minuten
--   Mandeln (gemahlen): 25 Minuten
--   Haselnüsse (ganz, ungeschält): 25 Minuten
--   Haselnüsse (gemahlen): 30 Minuten
+- Mandeln (ganz, geschält): 20 Minuten
+- Mandelstäbchen (geschält): 15 Minuten
+- Mandeln (gehobelt): 13 Minuten
+- Mandeln (gemahlen): 25 Minuten
+- Haselnüsse (ganz, ungeschält): 25 Minuten
+- Haselnüsse (gemahlen): 30 Minuten

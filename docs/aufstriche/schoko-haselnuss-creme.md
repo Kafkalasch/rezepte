@@ -20,8 +20,8 @@
 
 ## Inspiration
 
--   [Weltbild.de](https://www.weltbild.de/magazin/rezepte/ostern/schokocreme-selber-machen-und-geniessen_H1QF6ze0t/): Hab ich ausprobiert. Wurde sehr fest und musste wegen der Sahne im Kühlschrank aufbewahrt werden. Würde deshalb nicht nochmal machen.
+- [Weltbild.de](https://www.weltbild.de/magazin/rezepte/ostern/schokocreme-selber-machen-und-geniessen_H1QF6ze0t/): Hab ich ausprobiert. Wurde sehr fest und musste wegen der Sahne im Kühlschrank aufbewahrt werden. Würde deshalb nicht nochmal machen.
 
--   [Backen macht glücklich](https://www.backenmachtgluecklich.de/rezepte/gesundes-nutella-selbermachen.html)
+- [Backen macht glücklich](https://www.backenmachtgluecklich.de/rezepte/gesundes-nutella-selbermachen.html)
 
--   [Streusel](https://streusel.ch/schoko-haselnuss-aufstrich-selbst-gemachtes-nutella/)
+- [Streusel](https://streusel.ch/schoko-haselnuss-aufstrich-selbst-gemachtes-nutella/)
