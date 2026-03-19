@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrezepte=self.webpackChunkrezepte||[]).push([[26],{2776:e=>{e.exports=JSON.parse('{"name":"@easyops-cn/docusaurus-search-local","id":"default"}')}}]);

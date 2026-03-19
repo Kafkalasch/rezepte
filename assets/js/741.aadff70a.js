@@ -1,0 +1,1 @@
+(globalThis.webpackChunkrezepte=globalThis.webpackChunkrezepte||[]).push([[741],{5741(){}}]);

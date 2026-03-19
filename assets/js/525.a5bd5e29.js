@@ -1,1 +1,0 @@
-(self.webpackChunkrezepte=self.webpackChunkrezepte||[]).push([[525],{5525:()=>{}}]);
