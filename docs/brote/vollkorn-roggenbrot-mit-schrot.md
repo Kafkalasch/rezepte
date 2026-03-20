@@ -32,7 +32,7 @@
 
 ### Hauptteig
 
-1. Alle Zutaten für den Hauptteig 8 Minuten verkneten, bis die Masse bindig ist.
+1. Alle Zutaten für den Hauptteig gut verkneten, bis die Masse bindig ist.
    1. Die Hefe ist nur optional und kann weggelassen werden, wenn der Sauerteig aktiv ist.
 2. Den Teig 60 Minuten bei Raumtemperatur abgedeckt ruhen lassen.
 3. Auf die gut bemehlte Arbeitsfläche geben und rund wirken.
