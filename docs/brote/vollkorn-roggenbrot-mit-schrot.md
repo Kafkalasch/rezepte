@@ -18,7 +18,7 @@
 | 591 g | Sauerteig                        |
 | 420 g | Roggenvollkornmehl               |
 | 266 g | Wasser (45 °C)                   |
-| 18 g  | Salz                             |
+| 11 g  | Salz                             |
 | 3 g   | Frischhefe (optional)            |
 | 14 g  | brauner Rohrohrzucker (optional) |
 
