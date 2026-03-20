@@ -34,11 +34,11 @@
 
 1. Alle Zutaten für den Hauptteig gut verkneten, bis die Masse bindig ist.
    1. Die Hefe ist nur optional und kann weggelassen werden, wenn der Sauerteig aktiv ist.
-2. Den Teig 60 Minuten bei Raumtemperatur abgedeckt ruhen lassen.
+2. Den Teig gut 2-3 Stunden bei Raumtemperatur abgedeckt ruhen lassen bis der Teig sich verdoppelt hat.
 3. Auf die gut bemehlte Arbeitsfläche geben und rund wirken.
 4. Dabei darauf achten, dass sich ein gut bemehlter, faltiger Schluss bildet.
 5. Mit dem Schluss nach unten in ein rundes Gärkörbchen legen.
-6. Weitere 60 Minuten bei Raumtemperatur gehen lassen.
+6. Weitere Stunde bei Raumtemperatur gehen lassen, bis sich Risse zeigen.
 7. Ofen auf 250 °C Ober-/Unterhitze gut vorheizen (inklusive Gusseisenform mit Deckel).
 8. Brot in die Form kippen, Deckel zu und Temperatur auf 230 °C reduzieren.
 9. Nach 30 Minuten den Deckel abnehmen.
