@@ -2,14 +2,15 @@
 
 ## Zutaten
 
-| Menge      | Zutat                 |
-| ---------- | --------------------- |
-| 600 g      | Dinkelmehl - Type 630 |
-| 450 g      | Wasser - lauwarm      |
-| 10g        | frische Hefe          |
-| 15g / 3 TL | Salz                  |
-| 10g / 2 TL | Zucker                |
-| 2 TL       | Kümmel (optional)     |
+| Menge       | Zutat                 |
+|-------------|-----------------------|
+| 450 g       | Wasser (lauwarm)      |
+| 10 g        | Frische Hefe          |
+| 10 g / 2 TL | Zucker                |
+| 2 TL        | Kümmel (optional)     |
+| 600 g       | Dinkelmehl (Type 630) |
+| 15 g / 3 TL | Salz                  |
+
 
 ## Zubereitung
 
