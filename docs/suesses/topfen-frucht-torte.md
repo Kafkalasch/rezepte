@@ -1,8 +1,4 @@
-# Topfen-Joghurt-Fruchttorte ohne Gelatine
-
-Für eine 26-cm-Springform, geeignet für einen Kindergeburtstag mit mehreren Erwachsenen und Kindern. Die Creme ist topfenlastig und frisch, ohne Gelatine und ohne Frischkäse.
-
-Die Mengen für eine 18-cm-Springform sind auf die Hälfte gerundet. Der Flächenfaktor beträgt etwa 0,48; damit wird die kleine Torte ungefähr gleich hoch.
+# Topfen-Joghurt-Fruchttorte
 
 ## Zutaten
 
@@ -12,23 +8,22 @@ Die Mengen für eine 18-cm-Springform sind auf die Hälfte gerundet. Der Fläche
 | -------------- | ------------- | ------------------------ |
 | 4              | 2             | Eier (Gr. M), zimmerwarm |
 | 70 g           | 35 g          | Zucker                   |
-| 1 TL           | 1/2 TL        | Vanille oder Vanillemark |
-| 120 g          | 60 g          | Weizenmehl               |
+| 1 TL           | 1/2 TL        | Vanille                  |
+| 120 g          | 60 g          | Weizenmehl 405           |
 | 1 gestr. TL    | 1/2 gestr. TL | Backpulver, optional     |
 | 1 kleine Prise | etwas         | Salz                     |
 
 ### Topfen-Joghurt-Creme
 
-| Menge (26 cm) | Menge (18 cm)  | Zutat                                                  |
-| ------------- | -------------- | ------------------------------------------------------ |
-| 750 g         | 375 g          | Topfen / Quark, 20 % Fett                              |
-| 250 g         | 125 g          | griechischer Joghurt, ca. 10 % Fett                    |
-| 300 ml        | 150 ml         | Schlagobers / Sahne                                    |
-| 3 Päckchen    | 1 1/2 Päckchen | Sahnesteif                                             |
-| 1/2           | 1/4            | Bio-Zitrone (Abrieb)                                   |
-| 1–2 EL        | 1/2–1 EL       | Zitronensaft                                           |
-| etwas         | etwas          | Vanille                                                |
-| 0–30 g        | 0–15 g         | Puderzucker, optional; für die Kinderversion weglassen |
+| Menge (26 cm) | Menge (18 cm)  | Zutat                               |
+| ------------- | -------------- | ----------------------------------- |
+| 750 g         | 375 g          | Topfen, 20 % Fett                   |
+| 250 g         | 125 g          | griechischer Joghurt, ca. 10 % Fett |
+| 300 ml        | 150 ml         | Schlagobers                         |
+| 3 Päckchen    | 1 1/2 Päckchen | Sahnesteif                          |
+| 1/2           | 1/4            | Bio-Zitrone (Abrieb)                |
+| 1–2 EL        | 1/2–1 EL       | Zitronensaft                        |
+| etwas         | etwas          | Vanille                             |
 
 ### Früchte
 
@@ -38,25 +33,19 @@ Die Mengen für eine 18-cm-Springform sind auf die Hälfte gerundet. Der Fläche
 | davon 200–250 g | davon 100–125 g | Fruchtstückchen für die Füllung |
 | Rest            | Rest            | Früchte zum Dekorieren          |
 
-Gut geeignet sind Heidelbeeren, Himbeeren, Erdbeeren, Pfirsich, Nektarine oder Mango.
-
 ## Zubereitung
 
 ### Biskuitboden
 
 1. Backofen auf 180 °C Ober-/Unterhitze vorheizen.
-2. Boden der Springform mit Backpapier auslegen, den Rand nicht einfetten.
-3. Zimmerwarme Eier mit Zucker, Vanille und Salz etwa 10–15 Minuten hell und dickcremig aufschlagen, bis sich das Volumen deutlich vergrößert hat.
-4. Mehl und optional Backpulver mischen und portionsweise auf die Eiermasse sieben.
-5. Mit einem Teigschaber vorsichtig unterheben, nur bis keine Mehlnester mehr sichtbar sind.
-6. Teig in die Form geben und sofort etwa 20–30 Minuten backen. Ab etwa 20 Minuten eine Stäbchenprobe machen; die Backzeit hängt von Form und Ofen ab.
-7. Vollständig auskühlen lassen.
-
-:::note
-
-Der Boden ist bewusst wenig süß: 70 g Zucker für 26 cm bzw. 35 g für 18 cm. Die Vorlage verwendet bei 4 Eiern und 120 g Mehl 80 g Zucker plus Vanillezucker; diese weitere Zuckerreduktion ist noch nicht erprobt. Den Zucker nicht komplett weglassen, weil er zur Stabilität des Eierschaums und zur Textur beiträgt. Gründliches Aufschlagen und vorsichtiges Unterheben sind entscheidend; Backpulver ist optional.
-
-:::
+2. Boden der Springform mit Butter fetten und Mehl abstauben. Überschüssiges Mehl wieder weg. Den Rand nicht einfetten (wichtig!).
+3. Eier trennen.
+4. Eiweiß mit Salz zunächst schaumig schlagen. Dann die Hälfte des Zuckers langsam einrieseln lassen und weiterschlagen, bis der Eischnee steif ist.
+5. Eigelb mit der anderen Hälfte des Zuckers und der Vanille mehrere Minuten hell und cremig schlagen.
+6. Etwa ein Drittel des Eischnees mit einem Teigschaber vorsichtig unter die Eigelbmasse heben, um sie aufzulockern. Anschließend den restlichen Eischnee behutsam unterheben.
+7. Mehl und optional Backpulver mischen, in zwei bis drei Portionen auf die Eimasse sieben und jeweils vorsichtig mit dem Teigschaber unterheben.
+8. Teig in die Form geben, sanft glatt streichen und sofort etwa 25 Minuten backen. Stäbchenprobe machen.
+9. Vollständig auskühlen lassen, bevor die Creme aufgetragen wird.
 
 ### Topfen-Joghurt-Creme
 
@@ -85,5 +74,6 @@ Der Aufbau von unten nach oben: Biskuitboden, Topfen-Joghurt-Creme mit einzelnen
 
 ## Quellen
 
-- [Biskuitteig – Variationen von Cooking Chef Freunde](https://www.cookingchef-freun.de/?p=558): Rezept 1 als Basis für den Boden, hier mit 70 g statt 80 g Zucker, ungesüßter Vanille statt Vanillezucker und optionalem Backpulver. Die Menge ist für einen einzelnen Boden unter der Creme gedacht.
+- [Biskuitmasse (Grundrezept) von le menu](https://rezepte.lemenu.ch/recipes/LM201809_36/biskuitmasse-grundrezept): Basis für das getrennte Aufschlagen von Eiweiß und Eigelb mit jeweils der Hälfte des Zuckers. Hier mit 70 g statt 120 g Zucker, 120 g Weizenmehl statt 80 g Mehl plus 40 g Stärke, ungesüßter Vanille und optionalem Backpulver; für 26 cm statt 22 cm.
+- [Biskuitteig – Variationen von Cooking Chef Freunde](https://www.cookingchef-freun.de/?p=558): ursprüngliche Mengenbasis für den Boden; die Zubereitung wurde auf getrennte Eier umgestellt.
 - [Erdbeer-Joghurt-Torte ohne Gelatine von ichkoche.at](https://www.ichkoche.at/erdbeer-joghurt-torte-ohne-gelatine-rezept-21717): Inspiration für die Kombination aus Topfen, Joghurt, Schlagobers und Sahnesteif; die Mengen sind hier angepasst.
